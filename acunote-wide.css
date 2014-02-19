@@ -1,0 +1,12 @@
+body {
+  min-width: 0;
+}
+#main .sidebar {
+  display:none;
+}
+#main .content {
+  margin-left: 0;
+}
+#main .content > .wrap {
+  padding-left: 0;
+}
