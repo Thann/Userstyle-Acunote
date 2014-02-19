@@ -1,0 +1,19 @@
+tr, #main {
+  background-color: #a7a7a7 !important
+}
+a.issue_number_link {
+  color: black !important
+}
+.task_properties,
+.task_properties a {
+  color: #555;
+}
+#tasklist tr:hover {
+	background-color: rgb(160, 160, 168) !important;
+}
+#indicator {
+	border-top: 4px dotted #F00;
+}
+div.in_sprints, div.in_sprints a {
+	color: #3516B4;
+}
